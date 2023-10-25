@@ -1,3 +1,5 @@
+You can see my solution in: https://winterabw.github.io/Order-summary-component/
+
 # Frontend Mentor - Order summary card
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
